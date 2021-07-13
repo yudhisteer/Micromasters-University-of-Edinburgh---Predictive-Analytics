@@ -1,1 +1,1 @@
-# University-of-Edinburgh---Predictive-A
+# University-of-Edinburgh---Predictive-Analytics
